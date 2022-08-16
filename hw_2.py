@@ -3,8 +3,7 @@ import math
 
 print("Task #1")
 name = input("Enter your name: ")
-print("Hello,", name, end="!")
-print()
+print("Hello,", name, end="!\n")
 
 
 print("Task #2")
